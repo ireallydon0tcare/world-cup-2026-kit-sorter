@@ -8,7 +8,7 @@ dataSet[dataSetVersion].options = [
     checked: true,
     sub: [
       { name: "Home Kits", key: "home", checked: true },
-      { name: "Away Kits", key: "away" }
+      { name: "Away Kits", key: "away", checked: false }
     ]
   }
 ];
